@@ -12,7 +12,7 @@ Smart Chart Maker helps you move beyond static tables, providing a dynamic way t
 ## Build any type of charts directly from your MYSQL database
 
 [![Chart Selection step](https://mysqlreports.com/types.jpg)](https://mysqlreports.com/php-charts/)
-<h5 align="center">Chart Type Selection Screen in Smart Chart Maker </h5>
+
 
 ---
 
@@ -31,7 +31,7 @@ Smart Chart Maker helps you move beyond static tables, providing a dynamic way t
 - Add custom titles and labels to your chart legend 
 
 [![Customize PHP chart axis](https://mysqlreports.com/Axies.jpg)](https://mysqlreports.com/php-charts/)
-<h5 align="center">Chart Axes Settings in Smart Chart Maker </h5>
+
 
 ---
 
@@ -67,7 +67,7 @@ Customization options are organized into five main categories:
   - Customize tooltip appearance (background, text color, font, etc.)
  
 [![Customize PHP chart appearance](https://mysqlreports.com/apperances.jpg)](https://mysqlreports.com/php-charts/)
-<h5 align="center">Chart Apperance customization Screen in Smart Chart Maker </h5>
+
 
  ---
 
@@ -81,7 +81,7 @@ Customization options are organized into five main categories:
  
 
 [![Select MySQL tables for your graph](https://mysqlreports.com/scm-tables.jpg)](https://mysqlreports.com/php-charts/)
-<h5 align="center">MySQL Tables selection Screen in Smart Chart Maker </h5>
+
 ---
 
 ## Who Smart Chart Maker Is For
