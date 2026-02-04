@@ -113,4 +113,5 @@ Smart Report Maker not only creates PHP charts and graphs, but also full dashboa
 
 You can also explore available features and tutorials in the [Video Gallery](https://mysqlreports.com/webuccino-screencasts/).
 
+[![PHP Chart Builder Module of Smart Report Maker](https://mysqlreports.com/wp-content/uploads/2015/01/chart01.gif)](https://mysqlreports.com/php-charts/)
 
