@@ -13,7 +13,7 @@ Smart Chart Maker helps you move beyond static tables, providing a dynamic way t
 
 ## Diverse Chart Types: Choose from Bar charts, Line graphs, Pie charts, Area charts, and more to best represent your MYSQL data.
 
-![chart types supported by Smart Chart Maker - Powerful PHP chart builder for MYSQL](https://mysqlreports.com/scm-types.jpg)
+![php chart types supported by Smart Chart Maker - Powerful PHP chart builder for MYSQL](https://mysqlreports.com/scm-types.jpg)
 
 ## Customize Your PHP Chart Axes with Full Control
 - Define which database column maps to each chart axis  
@@ -22,4 +22,38 @@ Smart Chart Maker helps you move beyond static tables, providing a dynamic way t
 - Control the color of each bar, including single-color or multi-color gradient fills  
 - Add custom titles and labels to your chart legend 
 
-![Customize chart axis](https://mysqlreports.com/Axies.jpg)
+![Customize php chart axis](https://mysqlreports.com/Axies.jpg)
+
+## Full Control Over PHP Chart Appearance
+
+Customization options are organized into five main categories:
+
+- **General Settings**
+  - Control chart width and height  
+  - Set chart title, title position, and title color  
+  - Customize chart background color  
+  - Configure chart border color, width, and style  
+
+- **Axis Settings**
+  - Show or hide divisions and subdivisions  
+  - Show or hide axis labels  
+  - Set label text angle  
+  - Control axis font family, size, and color  
+
+- **Scale Settings**
+  - Define scale type  
+  - Set minimum and maximum values for each axis  
+
+- **Legend Settings**
+  - Show or hide the legend  
+  - Control legend position  
+  - Adjust padding and dimensions  
+  - Set legend font and font color  
+
+- **Tooltip Settings**
+  - Enable or disable tooltips  
+  - Control whether tooltips appear on hover or click  
+  - Customize tooltip appearance (background, text color, font, etc.)
+ 
+![Customize php chart apperance](https://mysqlreports.com/apperances.jpg)
+
