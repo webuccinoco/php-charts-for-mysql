@@ -7,11 +7,11 @@ Data visualization is the most effective way to identify patterns, trends, and o
 
 Smart Chart Maker helps you move beyond static tables, providing a dynamic way to communicate data stories—whether you're tracking monthly sales growth, user demographics, or server performance metrics through high-quality MySQL graphs.
 
-# Build any type of charts directly from your MYSQL database
+## Build any type of charts directly from your MYSQL database
 
 ![Chart Selection step](https://mysqlreports.com/types.jpg)
 
-# Diverse Chart Types: Choose from Bar charts, Line graphs, Pie charts, Area charts, and more to best represent your data.
+## Diverse Chart Types: Choose from Bar charts, Line graphs, Pie charts, Area charts, and more to best represent your data.
 
 ![chart types supported by Smart Chart Maker - Powerful PHP chart builder for MYSQL](https://mysqlreports.com/scm-types.jpg)
 
