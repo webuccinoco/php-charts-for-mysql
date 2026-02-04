@@ -118,7 +118,53 @@ You can also explore available features and tutorials in the [Video Gallery](htt
 [![PHP Chart Builder Module of Smart Report Maker](https://mysqlreports.com/wp-content/uploads/2015/01/chart01.gif)](https://mysqlreports.com/php-charts/)
 
 ---
+## Getting Started with Smart Chart Maker
 
+Follow the steps below to install Smart Chart Maker and create your first PHP chart in minutes.
+
+---
+
+#### Step 1: Clone or Download the Repository
+
+You can either clone the repository using Git or download it as a ZIP file and extract it.
+
+```bash
+git clone https://github.com/webuccinoco/php-charts-for-mysql.git
+```
+
+#### Step 2: Upload the folder named SCM to an empty subdirectory on your web server
+
+#### Step 3: Set folder permissions for the charts directory
+
+Make sure to assign **755** permissions to the following directories:
+
+- SCM  
+- SCM/charts  
+
+#### Step 4: Open Smart Chart Maker in your browser
+
+Open your browser and go to:
+
+```
+http://your-server-name/path-to-SCM/index.php
+```
+
+> **Note:** Be sure to replace **your-server-name** with your actual domain name (or `localhost` if you’re installing SCM on your local machine), and replace **path-to-SCM** with the real directory path where SCM is installed.
+
+#### Step 5: Create your first chart:
+
+Smart Chart Maker uses a wizard-style interface. Once you click the **"New Chart"** button, you will move through a multi-step wizard to create your first chart. The steps are as follows:
+
+- A step to connect to your MySQL database.  
+- A step to select one or more tables that contain the data source you want to display in your chart.  
+- If you selected multiple tables in the previous step, you will get a step to define the table relations between the selected tables.  
+- A filter step to filter the selected columns in case you need your chart to display filtered data.  
+- A step to select the chart type you want to build.  
+- A step to define the columns you want to use for each axis of your chart, noting that you can define multiple data series on the Y-axis.  
+- A customization step to customize the chart appearance.  
+
+> **Note:** If you need full details about each step, please refer to the **User-Guide.pdf** in this repository.
+---
 ## Frequently Asked Questions (FAQ) – Smart Chart Maker
 
 #### What is Smart Chart Maker?
